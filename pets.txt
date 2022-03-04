@@ -3,3 +3,4 @@ forgy
 jumpy
 lucky
 buggy
+scrappy
